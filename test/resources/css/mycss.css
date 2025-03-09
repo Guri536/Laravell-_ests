@@ -1,0 +1,7 @@
+.myalert{
+    color: cornflowerblue;
+    background-color: red;
+    height: 20px;
+    min-width: 100px;
+    width: auto;
+}

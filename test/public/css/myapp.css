@@ -1,0 +1,9 @@
+.myalert{
+    color: rgb(24, 84, 197);
+    background-color: rgb(237, 159, 159);
+    padding: 10px;
+    height: auto;
+    min-width: 100px;
+    max-width: 250px;
+    width: fit-content;
+}
